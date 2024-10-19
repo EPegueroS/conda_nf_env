@@ -4,5 +4,5 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - nextflow=24.04
-  - nf-core=2
+  - nextflow=24
+  - nf-core=3
